@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MiloProject
+#
+
+projectname: MiloProject
+vendorid: com.mycompany
+mainmodule: com.mycompany.miloproject
